@@ -1,0 +1,1849 @@
+{
+    "data": [
+        {
+            "id": "82e29927-3baa-44b3-8ede-6d1219f3f687",
+            "uri": "betonflam-f-delmonico-4584633511",
+            "currentName": "\"B\u00e9tonflam\", F. Delmonico",
+            "street": null,
+            "city": "Oron-la-Ville",
+            "zip": "1610",
+            "state": "VD",
+            "countryCode": "CHE",
+            "sectors": "F011",
+            "purpose": "D\u00e9coupage de b\u00e9ton, pierre, roche et fer par outils diamant\u00e9s et \u00e9clateurs. Forages, sciage, \u00e9clatage et craquage par outils diamant\u00e9s.",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41219077158"
+        },
+        {
+            "id": "d63eb653-bf37-4492-b303-038ccf75bfc2",
+            "uri": "cdm-radiologie-sa-6006531021",
+            "currentName": "\"CDM\"-Radiologie SA",
+            "street": "route des Chevaliers-de-Malte 71",
+            "city": "Plan-les-Ouates",
+            "zip": "1228",
+            "state": "GE",
+            "countryCode": "CHE",
+            "sectors": "Q012",
+            "purpose": "Exploitation et d\u00e9veloppement d'un ou plusieurs instituts d'imagerie m\u00e9dicale.",
+            "preferredLanguage": "fr",
+            "capital": {
+                "capitals": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "amount": "100000",
+                        "paid": "100000",
+                        "currency": "CHF",
+                        "validFrom": "2011-08-25",
+                        "invalidFrom": null
+                    },
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "amount": "100000",
+                        "paid": "100000",
+                        "currency": "CHF",
+                        "validFrom": "1985-05-09",
+                        "invalidFrom": null
+                    }
+                ],
+                "issues": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "tranche": "1",
+                        "shareValue": "2000",
+                        "shareNumber": "50",
+                        "validFrom": "2011-08-25",
+                        "invalidFrom": null
+                    },
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "tranche": "1",
+                        "shareValue": "2000",
+                        "shareNumber": "50",
+                        "validFrom": "1985-05-09",
+                        "invalidFrom": null
+                    }
+                ]
+            },
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41227212755"
+        },
+        {
+            "id": "d822ca43-a27d-4bb3-bd40-79f3a2cdfa95",
+            "uri": "colloc-beatrice-mallet-12086916051",
+            "currentName": "\"COLLOC\", B\u00e9atrice Mallet",
+            "street": "Chemin du Pr\u00e9-du-Couvent 3A",
+            "city": "Ch\u00eane-Bougeries",
+            "zip": "1224",
+            "state": "GE",
+            "countryCode": "CHE",
+            "sectors": "N015",
+            "purpose": "Service linguistique de conf\u00e9rences; organisation de conf\u00e9rences.",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41223485989"
+        },
+        {
+            "id": "e9fb56dc-af65-4fe9-8a66-99b785f60bf0",
+            "uri": "cafusa-g-cadalbert-20028880421",
+            "currentName": "\"Cafusa\", G. Cadalbert",
+            "street": "via Nova 60",
+            "city": "Domat/Ems",
+            "zip": "7013",
+            "state": "GR",
+            "countryCode": "CHE",
+            "sectors": "C021",
+            "purpose": "Mass- und Konfektionsn\u00e4herei.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41816331430"
+        },
+        {
+            "id": "10b62fd0-5b1b-40e4-b12d-11e60d4ba068",
+            "uri": "cafe-restaurant-bamboo-han-10304195021",
+            "currentName": "\"Caf\u00e9-Restaurant Bamboo\" - Han",
+            "street": "rue Daniel-Jeanrichard 11",
+            "city": "La Chaux-de-Fonds",
+            "zip": "2300",
+            "state": "NE",
+            "countryCode": "CHE",
+            "sectors": "I014",
+            "purpose": "Exploitation d'un caf\u00e9 restaurant, cuisine asiatique.",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41329141866"
+        },
+        {
+            "id": "8eddeebb-0940-48cc-9973-783cbcadc521",
+            "uri": "cancer-solidarite-fondation-11439764981",
+            "currentName": "\"Cancer & Solidarit\u00e9\" Fondation",
+            "street": "avenue Krieg 44",
+            "city": "Gen\u00e8ve",
+            "zip": "1208",
+            "state": "GE",
+            "countryCode": "CHE",
+            "sectors": "S011",
+            "purpose": "Favoriser et d\u00e9velopper la recherche sur le cancer et en particulier de participer directement ou non \u00e0 tous programmes dans ce domaine \u00e9tablis par toute personne physique ou morale.",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "info@cancer-solidarity.ch",
+            "site": "www.cancer-solidarity.ch",
+            "phone": "+41228391111"
+        },
+        {
+            "id": "47b82eec-dbd4-4fd8-8c06-a09f1348f6ae",
+            "uri": "cart-electronique-c-al-camporelli-5460488301",
+            "currentName": "\"Cart-Electronique\" C-Al. Camporelli",
+            "street": "rue des Fontaines 40",
+            "city": "Cornaux NE",
+            "zip": "2087",
+            "state": "NE",
+            "countryCode": "CHE",
+            "sectors": "G017",
+            "purpose": "vente et r\u00e9paration radio-TV; sous-traitance mat\u00e9riel \u00e9lectronique pour l'industrie.",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41327572434"
+        },
+        {
+            "id": "713be159-3903-4b9e-bffe-b07f501ca28b",
+            "uri": "cave-lor-du-vent-mermoud-bernard-11960812701",
+            "currentName": "\"Cave L'Or du Vent\" Mermoud Bernard",
+            "street": "Chemin des Vendanges 1",
+            "city": "Veyras",
+            "zip": "3968",
+            "state": "VS",
+            "countryCode": "CHE",
+            "sectors": "G015",
+            "purpose": "De l'entreprise: travaux de la vigne et de la cave, ainsi que toutes transactions mobili\u00e8res, immobili\u00e8res et financi\u00e8res.",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "bernardmermoud@swissonline.ch",
+            "site": "",
+            "phone": "+41274558820"
+        },
+        {
+            "id": "c09b3428-79e2-4c1e-907a-d11ef2736276",
+            "uri": "chateau-de-constantine-fondation-dutilite-5714730531",
+            "currentName": "\"Ch\u00e2teau de Constantine\" Fondation d'Utilit\u00e9 Publique",
+            "street": "Route du Village 4",
+            "city": "Constantine",
+            "zip": "1587",
+            "state": "VD",
+            "countryCode": "CHE",
+            "sectors": "Q014",
+            "purpose": "La fondation a pour but l'exploitation du domaine du Ch\u00e2teau de Constantine en tant que maison de vie, de vacances, de soins l\u00e9gers et de convalescence (pour but complet cf. acte de fondation).",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "20-49",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "www.chateaudeconstantine.com",
+            "phone": "+41266771318"
+        },
+        {
+            "id": "029f4498-5909-4cd9-8ce0-b1aed822fa12",
+            "uri": "chaes-burri-nachfolger-zelger-co-3455584081",
+            "currentName": "\"Ch\u00e4s Burri\", Nachfolger Zelger & Co.",
+            "street": "Knonauerstrasse 1",
+            "city": "Steinhausen",
+            "zip": "6312",
+            "state": "ZG",
+            "countryCode": "CHE",
+            "sectors": "G015",
+            "purpose": "Betrieb eines K\u00e4sereispezialgesch\u00e4ftes",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41417411231"
+        },
+        {
+            "id": "f8d28457-887c-4056-91c7-3302f68cdff2",
+            "uri": "chaes-roli-lebrument-20931356151",
+            "currentName": "\"Ch\u00e4s Roli\", Lebrument",
+            "street": "Dubsstr. 23",
+            "city": "Z\u00fcrich",
+            "zip": "8003",
+            "state": "ZH",
+            "countryCode": "CHE",
+            "sectors": "G022",
+            "purpose": "Handel mit K\u00e4sen und anderen Lebensmitteln.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41444626209"
+        },
+        {
+            "id": "facbc1dd-17c0-4e9c-a1df-fc95ae2f3513",
+            "uri": "chaes-hebise-walter-hebeisen-11662265361",
+            "currentName": "\"Ch\u00e4s-Hebise\", Walter Hebeisen",
+            "street": "Rennweg 36",
+            "city": "Z\u00fcrich",
+            "zip": "8001",
+            "state": "ZH",
+            "countryCode": "CHE",
+            "sectors": "G015",
+            "purpose": "Handel mit Milch und Milchprodukten.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41442114184"
+        },
+        {
+            "id": "27d39c1c-05c8-4515-91d3-55718b476f3d",
+            "uri": "coiffeur-imperial-dali-pantelic-10932477841",
+            "currentName": "\"Coiffeur Imperial Dali\" Pantelic",
+            "street": "St. Gallerstrasse 15",
+            "city": "Wittenbach",
+            "zip": "9300",
+            "state": "SG",
+            "countryCode": "CHE",
+            "sectors": "S014",
+            "purpose": "Damen- und Herrencoiffeur.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41712227375"
+        },
+        {
+            "id": "60cf6263-b7ab-4e42-9f21-19a80d5e93e2",
+            "uri": "coiffure-dani-stojanovic-21202589401",
+            "currentName": "\"Coiffure Dani\" Stojanovic",
+            "street": "Winkelriedstrasse 61",
+            "city": "Luzern",
+            "zip": "6003",
+            "state": "LU",
+            "countryCode": "CHE",
+            "sectors": "S014",
+            "purpose": "Betrieb eines Coiffure- und Kosmetiksalons unter der Enseigne \"Coiffure Dani\".",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41412109210"
+        },
+        {
+            "id": "5abcfff5-8329-44bc-9fb0-bcc76d3e4e38",
+            "uri": "coiffure-piccolo-d-g-baumgartner-21459127401",
+            "currentName": "\"Coiffure Piccolo\" D. + G. Baumgartner",
+            "street": "Gr\u00fcnaumatte 5",
+            "city": "Gettnau",
+            "zip": "6142",
+            "state": "LU",
+            "countryCode": "CHE",
+            "sectors": "S014",
+            "purpose": "Betrieb eines Coiffuresalons unter der Enseigne \"Coiffure Piccolo.\"",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41419703848"
+        },
+        {
+            "id": "deb042e8-6b07-4c87-9e0e-4ea2a747167a",
+            "uri": "coiffure-robin-kurt-moser-3702301951",
+            "currentName": "\"Coiffure Robin\" Kurt Moser",
+            "street": "Auf der Lyss 16",
+            "city": "Basel",
+            "zip": "4051",
+            "state": "BS",
+            "countryCode": "CHE",
+            "sectors": "S014",
+            "purpose": "Betrieb eines Damencoiffeursalons.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41612619432"
+        },
+        {
+            "id": "776d0e0a-433b-49f7-bd0a-09f552adb5d2",
+            "uri": "commercial-treuhand-und-verwaltungs-ag-2878357621",
+            "currentName": "\"Commercial\" Treuhand- und Verwaltungs AG",
+            "street": "Bellerivestrasse 53",
+            "city": "Z\u00fcrich",
+            "zip": "8008",
+            "state": "ZH",
+            "countryCode": "CHE",
+            "sectors": "K020",
+            "purpose": "Die Gesellschaft bezweckt die Verm\u00f6gensverwaltung sowie Anlageberatung gem\u00e4ss FINIG. Die Gesellschaft kann jede Art von Anlageinstrumente, Immobilien, Grundst\u00fccke sowie Unternehmen erwerben, halten, vermitteln und ver\u00e4ussern.",
+            "preferredLanguage": "de",
+            "capital": {
+                "capitals": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "amount": "1000000",
+                        "paid": "1000000",
+                        "currency": "CHF",
+                        "validFrom": "1946-11-28",
+                        "invalidFrom": null
+                    }
+                ],
+                "issues": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "tranche": "1",
+                        "shareValue": "1000.00",
+                        "shareNumber": "1000",
+                        "validFrom": "1946-11-28",
+                        "invalidFrom": null
+                    }
+                ]
+            },
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41434774411"
+        },
+        {
+            "id": "e163b6ce-0983-45bf-b3c2-bd94097cd568",
+            "uri": "confetti-e-toigo-4265985831",
+            "currentName": "\"Confetti\" E. Toigo",
+            "street": "Industriestrasse 15B",
+            "city": "Zug",
+            "zip": "6300",
+            "state": "ZG",
+            "countryCode": "CHE",
+            "sectors": "G022",
+            "purpose": "Diverse Geschenke, Ballone aller Art, sowie Verpackungs-Service.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41417118230"
+        },
+        {
+            "id": "c661e198-c283-49e9-9099-f8aa3c52c77d",
+            "uri": "cordonnerie-nouvelle-s-marian-4595071891",
+            "currentName": "\"Cordonnerie Nouvelle\" S. Marian",
+            "street": "Rue de l'Industrie 8",
+            "city": "Versoix",
+            "zip": "1290",
+            "state": "GE",
+            "countryCode": "CHE",
+            "sectors": "S013",
+            "purpose": "cordonnerie et commerce de chaussures.",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41227552861"
+        },
+        {
+            "id": "8ece5d95-f253-4085-a5ac-ef77230f1b0c",
+            "uri": "creation-pierre-p-wuethrich-20628562751",
+            "currentName": "\"Cr\u00e9ation Pierre\" P. W\u00fcthrich",
+            "street": "Brunnenrain 218",
+            "city": "Pfeffikon LU",
+            "zip": "5735",
+            "state": "LU",
+            "countryCode": "CHE",
+            "sectors": "G016",
+            "purpose": "Import von und Grosshandel mit Schmucksteinen und Mineralien; eigene Schmuckverarbeitung.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41627719141"
+        },
+        {
+            "id": "fbb9bf7d-9942-4d22-9eb9-c5ba127c9912",
+            "uri": "dg-artis-david-genoud-20570696421",
+            "currentName": "\"DG ARTIS\" David Genoud",
+            "street": "Ruelle du Petit-Paradis 1",
+            "city": "Ch\u00e2tel-St-Denis",
+            "zip": "1618",
+            "state": "FR",
+            "countryCode": "CHE",
+            "sectors": "S014",
+            "purpose": "Salon de coiffure et perruque, distribution commerciale d'articles de coiffure et perruque pour professionnel, centre de formation.",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2020-07-29",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": ""
+        },
+        {
+            "id": "d0c91828-16c9-45d6-ba56-4e019ab1b888",
+            "uri": "denner-satellit-e-gaehler-5392345631",
+            "currentName": "\"Denner Satellit\" E. G\u00e4hler",
+            "street": "Wilerstrasse 6",
+            "city": "Sirnach",
+            "zip": "8370",
+            "state": "TG",
+            "countryCode": "CHE",
+            "sectors": "G022",
+            "purpose": "Detailhandel, Lebensmittel",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "www.denner.ch",
+            "phone": "+41719600025"
+        },
+        {
+            "id": "28ef2f71-063d-49d0-9ba3-b273645c5ccf",
+            "uri": "denner-satellit-ch-keller-4893641561",
+            "currentName": "\"Denner-Satellit\" Ch. Keller",
+            "street": "Kirchweg 25",
+            "city": "Nussbaumen AG",
+            "zip": "5415",
+            "state": "AG",
+            "countryCode": "CHE",
+            "sectors": "G022",
+            "purpose": "Handel mit Denner-Produkten sowie anderen Lebens- und Genussmitteln.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "www.denner.ch",
+            "phone": "+41562821516"
+        },
+        {
+            "id": "c7c14656-578e-4e3f-9b98-38344de4b696",
+            "uri": "depa-radio-television-l-pretti-12253575681",
+            "currentName": "\"Depa\" radio-t\u00e9l\u00e9vision L. Pretti",
+            "street": "ch. de la Vallombreuse 3",
+            "city": "Lausanne",
+            "zip": "1004",
+            "state": "VD",
+            "countryCode": "CHE",
+            "sectors": "G017",
+            "purpose": "Commerce et r\u00e9parations de radios et t\u00e9l\u00e9visions.",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41216257878"
+        },
+        {
+            "id": "2eb6c051-88ca-4ff1-a1bf-15e0b1d94198",
+            "uri": "der-bauer-pius-henke-10321462931",
+            "currentName": "\"Der Bauer\" Pius Henke",
+            "street": "Letten 2066",
+            "city": "G\u00e4hwil",
+            "zip": "9534",
+            "state": "SG",
+            "countryCode": "CHE",
+            "sectors": "A013",
+            "purpose": "Maurerarbeiten, Schreinerarbeiten, Malerarbeiten, Elektroinstallationen, landwirtschaftlicher Handel.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41719314087"
+        },
+        {
+            "id": "45988e7f-08db-47bc-9269-a9f7578e71be",
+            "uri": "diara-dia-service-kurt-freund-14580829101",
+            "currentName": "\"Diara\" Dia-Service Kurt Freund",
+            "street": "Zelgwiesenstrasse 6",
+            "city": "Z\u00fcrich",
+            "zip": "8046",
+            "state": "ZH",
+            "countryCode": "CHE",
+            "sectors": "M023",
+            "purpose": "Einrahmung von Dias, Herstellung von Dia-Duplikaten sowie Verkauf von einschl\u00e4gigem Zubeh\u00f6r; F\u00fchren eines Bilderarchivs.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41443112085"
+        },
+        {
+            "id": "91a56889-d7ec-4fba-b99f-09aa16c38469",
+            "uri": "die-neue-werft-inhaber-stefan-rueegg-12880520311",
+            "currentName": "\"Die neue Werft\" Inhaber Stefan R\u00fcegg",
+            "street": "Kreuzlingerstrasse 75",
+            "city": "Romanshorn",
+            "zip": "8590",
+            "state": "TG",
+            "countryCode": "CHE",
+            "sectors": "C073",
+            "purpose": "Betreiben einer Bootswerft; Neubau und Reparaturen von Booten; Service an und Handel mit Booten und Zubeh\u00f6r.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41714601122"
+        },
+        {
+            "id": "0bbd75b7-ab3e-4f16-9864-887ad50cd995",
+            "uri": "dr-fred-styger-stiftung-fuer-kultur-bildung-u-4249390281",
+            "currentName": "\"Dr. Fred Styger Stiftung\" f\u00fcr Kultur, Bildung und Wissenschaft",
+            "street": "Platz 12",
+            "city": "Herisau",
+            "zip": "9100",
+            "state": "AR",
+            "countryCode": "CHE",
+            "sectors": "S011",
+            "purpose": "Die Stiftung unterst\u00fctzt Bestrebungen und Projekte, welche auf gemeinn\u00fctziger Grundlage direkt oder indirekt einen Beitrag zur F\u00f6rderung von Kultur, Bildung und Wissenschaft im Kanton Appenzell Ausserrhoden leisten. In besonderen F\u00e4llen k\u00f6nnen Stiftungsmittel auch in den angrenzenden Kantonen eingesetzt werden. Es d\u00fcrfen auch Einzelpersonen ber\u00fccksichtigt werden, die Ausbildungsbeihilfen ben\u00f6tigen. Ausgeschlossen sind Beihilfen zur L\u00f6sung von Aufgaben, die von Gesetzes wegen Kanton oder Gemeinden obliegen. Handelt es sich hingegen um Aufgaben, zu deren Erf\u00fcllung die \u00f6ffentliche Hand nicht verpflichtet, wohl aber befugt ist, so sind Beihilfen zul\u00e4ssig. Der Stiftungsrat ist im Rahmen vorstehender Zweckumschreibung berechtigt, in einem Reglement n\u00e4here Weisungen \u00fcber die Verwendung der verf\u00fcgbaren Stiftungsgelder zu erlassen.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "20-49",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41713332402"
+        },
+        {
+            "id": "2a9ca43e-8178-4958-b8c4-77f5f512c37a",
+            "uri": "duo-fischbach-limacher-und-freiburghaus-11154679991",
+            "currentName": "\"Duo Fischbach\" - Limacher und Freiburghaus",
+            "street": "Kelmattstrasse 22",
+            "city": "K\u00fcssnacht am Rigi",
+            "zip": "6403",
+            "state": "SZ",
+            "countryCode": "CHE",
+            "sectors": "R010",
+            "purpose": "Theaterproduktionen und Theaterauff\u00fchrungen.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "theater@duofischbach.ch",
+            "site": "",
+            "phone": "+41418502411"
+        },
+        {
+            "id": "687ac17f-0abc-4e92-a416-3db51ef650ec",
+            "uri": "decor-home-daniel-bournery-14303476741",
+            "currentName": "\"D\u00e9cor-Home\" Daniel Bournery",
+            "street": "Ruelle du Midi 12",
+            "city": "Gen\u00e8ve",
+            "zip": "1207",
+            "state": "GE",
+            "countryCode": "CHE",
+            "sectors": "M022",
+            "purpose": "ensemblier-d\u00e9corateur \u00e0 l'enseigne \"D\u00e9cor-Home\".",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41227862012"
+        },
+        {
+            "id": "c3ab3022-2c6e-46d4-8ec6-0e395b1b0991",
+            "uri": "e-suuberi-sach-gmbh-14121852321",
+            "currentName": "\"E suuberi Sach\" GmbH",
+            "street": "Dornacherstrasse 154",
+            "city": "Basel",
+            "zip": "4053",
+            "state": "BS",
+            "countryCode": "CHE",
+            "sectors": "N024",
+            "purpose": "Zweck der Gesellschaft sind Dienstleistungen aller Art im Bereich von Reinigung und Unterhalt von Liegenschaften sowie Erbringung aller damit zusammenh\u00e4ngender T\u00e4tigkeiten. Die Gesellschaft kann alle Gesch\u00e4fte t\u00e4tigen, welche die Entwicklung des Unternehmens und die Erreichung des Gesellschaftszwecks f\u00f6rdern. Sie kann im In- und Ausland Grundeigentum erwerben, belasten, ver\u00e4ussern oder verwalten, wobei der Erwerb von Grundeigentum nur in den Schranken des entsprechenden Bewilligungsgesetzes \u00fcber den Erwerb von Grundst\u00fccken durch Personen im Ausland zul\u00e4ssig ist. Ebenso ist sie berechtigt, im In- und Ausland Zweigniederlassungen und Tochtergesellschaften zu errichten und sich an anderen Unternehmungen zu beteiligen.",
+            "preferredLanguage": "de",
+            "capital": {
+                "capitals": [
+                    {
+                        "type": {
+                            "code": "3",
+                            "key": "CapitalType_3"
+                        },
+                        "amount": "20000",
+                        "paid": "20000",
+                        "currency": "CHF",
+                        "validFrom": "2005-01-27",
+                        "invalidFrom": null
+                    }
+                ],
+                "issues": []
+            },
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41613224620"
+        },
+        {
+            "id": "fd07c573-f7cc-4165-9ff6-28506809e2c5",
+            "uri": "esm-diakonie-und-sozialstiftung-14389384751",
+            "currentName": "\"ESM Diakonie- und Sozialstiftung\"",
+            "street": "Vogesenstrasse 28",
+            "city": "Basel",
+            "zip": "4056",
+            "state": "BS",
+            "countryCode": "CHE",
+            "sectors": "Q017",
+            "purpose": "Die Stiftung unterst\u00fctzt, f\u00f6rdert oder betreibt sozialdiakonische gemeinn\u00fctzige Projekte und Arbeiten (wie z.B. Orte der Begegnung, Arbeitsprojekte mit Kindern, Jugendlichen, Erwachsenen, Familien und Senioren, sowie die Beratung und Betreuung von Senioren u. dgl.) in der Stadt Basel, die allen Menschen, unabh\u00e4ngig der politischen, weltanschaulichen und glaubensm\u00e4ssigen Herkunft offenstehen. Die Stiftung kann dazu alle notwendig erscheinenden Massnahmen ergreifen, z.B. Leistungsvereinbarungen abschliessen, Mitarbeitende anstellen, Infrastrukturen bereitstellen, betreiben oder f\u00f6rdern, Beratungen und Dienstleistungen aller Art anbieten, erbringen oder unterst\u00fctzen etc. Es k\u00f6nnen auch Liegenschaften erworben und verwaltet sowie ver\u00e4ussert werden.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                },
+                {
+                    "from": "2018-06-27",
+                    "range": "no_data",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41613830333"
+        },
+        {
+            "id": "6efc15e4-8393-431b-8cfe-f20ae2abda4a",
+            "uri": "egemann-music-e-lackner-4282697851",
+            "currentName": "\"Egemann\" - Music, E. Lackner",
+            "street": "Rummelmatt 10",
+            "city": "Wohlen AG",
+            "zip": "5610",
+            "state": "AG",
+            "countryCode": "CHE",
+            "sectors": "J013",
+            "purpose": "Anbieten von Dienstleistungen im Bereich Multimedia Produktion sowie F\u00fchren eines Tonstudios und Verlags.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "info@madmanoush.com",
+            "site": "www.madmanoush.com",
+            "phone": "+41566227185"
+        },
+        {
+            "id": "445a5d48-3688-4a22-aefe-96a164c00fc0",
+            "uri": "eicifa-eichenberger-cie-12557713611",
+            "currentName": "\"Eicifa\" Eichenberger & Cie",
+            "street": "Russirainstrasse 4",
+            "city": "Menziken",
+            "zip": "5737",
+            "state": "AG",
+            "countryCode": "CHE",
+            "sectors": "G019",
+            "purpose": "Detailversand von Cigarren und Spezialkerzen.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "cigars@eicifa.ch",
+            "site": "www.eicifa.ch",
+            "phone": "+41627711655"
+        },
+        {
+            "id": "46e95ce0-da3a-4418-80b9-5118d4d90202",
+            "uri": "esco-plast-schondorff-co-14627563131",
+            "currentName": "\"Esco-Plast\" Schondorff & Co",
+            "street": "Innere Arelestrasse 9",
+            "city": "Kandersteg",
+            "zip": "3718",
+            "state": "BE",
+            "countryCode": "CHE",
+            "sectors": "G022",
+            "purpose": "Handel mit Kunststoffen.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41562411626"
+        },
+        {
+            "id": "f7fb73a6-598e-4508-b04f-7d81a6f1efa6",
+            "uri": "evag-holding-aktiengesellschaft-13138299861",
+            "currentName": "\"Evag\" Holding-Aktiengesellschaft",
+            "street": "Dufourstrasse 107",
+            "city": "Z\u00fcrich",
+            "zip": "8008",
+            "state": "ZH",
+            "countryCode": "CHE",
+            "sectors": "K013",
+            "purpose": "Die Gesellschaft bezweckt den Erwerb und die Verwaltung von Beteiligungen an anderen Unternehmen im In- und Ausland sowie die Verwaltung ihrer eigenen Mittel. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten sowie alle Gesch\u00e4fte t\u00e4tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, be- lasten, ver\u00e4ussern und verwalten. Sie kann auch Finanzierungen f\u00fcr eigene oder fremde Rechnung vornehmen sowie Sicherheiten f\u00fcr Verbindlichkeiten verbundener Gesellschaften abgeben.",
+            "preferredLanguage": "de",
+            "capital": {
+                "capitals": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "amount": "100000",
+                        "paid": "100000",
+                        "currency": "CHF",
+                        "validFrom": "1921-06-03",
+                        "invalidFrom": null
+                    }
+                ],
+                "issues": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "tranche": "1",
+                        "shareValue": "125",
+                        "shareNumber": "800",
+                        "validFrom": "1921-06-03",
+                        "invalidFrom": null
+                    }
+                ]
+            },
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "10-19",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41444004343"
+        },
+        {
+            "id": "49e81880-525b-4f40-bad7-ef1938e4a484",
+            "uri": "extrabelle-h-meissner-14289329551",
+            "currentName": "\"Extrabelle\" H. Meissner",
+            "street": "Rohrhaldenstrasse 18",
+            "city": "St\u00e4fa",
+            "zip": "8712",
+            "state": "ZH",
+            "countryCode": "CHE",
+            "sectors": "G020",
+            "purpose": "Fabrikation von und Handel mit K\u00f6rperpflege- und Massageprodukten \"Extrabelle\" sowie Handel mit pharmazeutischen Produkten.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41449268300"
+        },
+        {
+            "id": "bb1df966-7a82-4dba-9c26-e92d5e0c1fa4",
+            "uri": "feier-plan-frau-huesser-13195593731",
+            "currentName": "\"Feier\"-Plan, Frau H\u00fcsser",
+            "street": "Mattweg 3",
+            "city": "Neuheim",
+            "zip": "6345",
+            "state": "ZG",
+            "countryCode": "CHE",
+            "sectors": "G022",
+            "purpose": "Planung und Montage von sowie Handel mit K\u00fcchen, Badezimmern, Sanit\u00e4r- und Elektroinstallationen sowie Elektroapparaten, Planung und Ausf\u00fchrung von energiesparenden Haustechnikanlagen, Umbauten und Sanierungen, Planung und Erstellung von Bauten mit allen dazugeh\u00f6rigen Teilen, Ausf\u00fchrung von Generalunternehmungsauftr\u00e4gen sowie Bau-, Maler- und Maurerarbeiten.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41417553639"
+        },
+        {
+            "id": "a3e1eebc-4125-4ec2-a775-2e1e4221bb97",
+            "uri": "feliceb-erika-steinbruechel-19988817241",
+            "currentName": "\"FeliceB\", Erika Steinbr\u00fcchel",
+            "street": "Seefeldstrasse 64",
+            "city": "Z\u00fcrich",
+            "zip": "8008",
+            "state": "ZH",
+            "countryCode": "CHE",
+            "sectors": "G021",
+            "purpose": "Verkauf von Damenober- und Unterbekleidung in Spezial- und Normalgr\u00f6ssen.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41442518462"
+        },
+        {
+            "id": "640ee683-fc90-4c63-b739-bf90e28bbb2f",
+            "uri": "finortrust-financial-organisation-and-trustee-11697982851",
+            "currentName": "\"Finortrust\" Financial Organisation and Trusteeship SA",
+            "street": "Place de la Taconnerie 10",
+            "city": "Gen\u00e8ve",
+            "zip": "1204",
+            "state": "GE",
+            "countryCode": "CHE",
+            "sectors": "K013",
+            "purpose": "Administration et gestion directe ou fiduciaire en Suisse et \u00e0 l'\u00e9tranger de valeurs mobili\u00e8res et immobili\u00e8res de toute nature; gestion et exploitation \u00e0 titre fiduciaire de tous brevets, licences ou droits industriels ainsi que prestation de tous services administratifs, commerciaux et techniques quelconques; examen et \u00e9tude, \u00e0 titre consultatif, de toutes affaires financi\u00e8res, de tous march\u00e9s commerciaux ainsi que de toutes op\u00e9rations \u00e0 but \u00e9conomique; participation directe ou indirecte, sous une forme quelconque \u00e0 toutes entreprises immobili\u00e8res, agricoles, industrielles et commerciales; administration de toutes participations financi\u00e8res quelconques, sans faire appel au public. Gestion de fortunes ou de patrimoines pour le compte d'autrui.",
+            "preferredLanguage": "fr",
+            "capital": {
+                "capitals": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "amount": "580000",
+                        "paid": "580000",
+                        "currency": "CHF",
+                        "validFrom": "1958-02-05",
+                        "invalidFrom": null
+                    }
+                ],
+                "issues": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "tranche": "1",
+                        "shareValue": "100.00",
+                        "shareNumber": "5800",
+                        "validFrom": "1958-02-05",
+                        "invalidFrom": null
+                    }
+                ]
+            },
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "10-19",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "info@finortrust.ch",
+            "site": "",
+            "phone": "+41227862133"
+        },
+        {
+            "id": "a591e809-a146-4741-b00b-36d0ff5a3462",
+            "uri": "florence-moon-f-amini-moghadam-ledermode-13201486901",
+            "currentName": "\"Florence Moon\" F. Amini Moghadam Ledermode",
+            "street": "Furttalstrasse 187",
+            "city": "Z\u00fcrich",
+            "zip": "8046",
+            "state": "ZH",
+            "countryCode": "CHE",
+            "sectors": "G021",
+            "purpose": "Import und Export von sowie Handel mit Lederwaren.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41443711244"
+        },
+        {
+            "id": "16def32a-c7c4-4b31-a4d0-3e34abd1becb",
+            "uri": "fly-garage-m-rueegg-20084312121",
+            "currentName": "\"Fly-Garage\" M. R\u00fcegg",
+            "street": "Fli",
+            "city": "Weesen",
+            "zip": "8872",
+            "state": "SG",
+            "countryCode": "CHE",
+            "sectors": "G011",
+            "purpose": "Garagenbetrieb",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "www.linthcar-rental.ch",
+            "phone": "+41556162022"
+        },
+        {
+            "id": "afad35d4-b499-421c-9866-aea4c7170353",
+            "uri": "fugu-kinderkrippen-gmbh-4730581131",
+            "currentName": "\"Fugu\" Kinderkrippen GmbH",
+            "street": "Alte Winterthurerstrasse 14",
+            "city": "Wallisellen",
+            "zip": "8304",
+            "state": "ZH",
+            "countryCode": "CHE",
+            "sectors": "Q017",
+            "purpose": "Die Gesellschaft bezweckt das F\u00fchren von Kinderkrippen. Die Gesellschaft m\u00f6chte f\u00fcr die Eltern eine erg\u00e4nzende Familienbetreuung bieten und den Kindern das soziale Verh\u00e4ltnis untereinander n\u00e4her bringen. Die Gesellschaft bietet eine familienerg\u00e4nzende Tagesbetreuung f\u00fcr Kinder im Alter von drei Monaten bis zum Kindergarteneintritt an. Die Kinder sollen durch qualifiziertes Personal betreut werden. Ziel der Betreuung ist die altersgerechte F\u00f6rderung der sozialen, emotionalen und sprachlichen F\u00e4higkeiten der Kinder. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Gesch\u00e4fte t\u00e4tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, ver\u00e4ussern und verwalten. Sie kann auch Finanzierungen f\u00fcr eigene oder fremde Rechnung vornehmen sowie Garantien und B\u00fcrgschaften f\u00fcr Tochtergesellschaften und Dritte eingehen.",
+            "preferredLanguage": "de",
+            "capital": {
+                "capitals": [
+                    {
+                        "type": {
+                            "code": "3",
+                            "key": "CapitalType_3"
+                        },
+                        "amount": "20000",
+                        "paid": "20000",
+                        "currency": "CHF",
+                        "validFrom": "2011-06-28",
+                        "invalidFrom": null
+                    }
+                ],
+                "issues": []
+            },
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "kundendienst@kitafugu.ch",
+            "site": "www.kitafugi.ch",
+            "phone": "+41433116616"
+        },
+        {
+            "id": "3e26363b-e5cf-4aad-859c-86f1ad469d26",
+            "uri": "fundaziun-capauliana-fc-5166722371",
+            "currentName": "\"Fundaziun Capauliana\" (FC)",
+            "street": "Rheinfelsstrasse 1",
+            "city": "Chur",
+            "zip": "7000",
+            "state": "GR",
+            "countryCode": "CHE",
+            "sectors": "R012",
+            "purpose": "Die Stiftung verfolgt gemeinn\u00fctzige Zwecke. Sie bezweckt die Erhaltung, den Ausbau und die Erschliessung ihres Sammelgutes, welches u.a. aus Bildern, Grafiken, Postkarten, Prospekten. Plakaten und Fotografien mit engem Bezug zum Kanton Graub\u00fcnden besteht. Um diesen Zweck zu verwirklichen a) wird der Bestand der Sammlung nach M\u00f6glichkeit durch Zuk\u00e4ufe oder Schenkungen seitens Dritter erweitert; b) wird das Sammelgut in geeigneten R\u00e4umlichkeiten aufbewahrt, unterhalten und der interessierten \u00d6ffentlichkeit zug\u00e4nglich gemacht; c) betreibt die Stiftung einen Online-Katalog; d) organisiert und veranstaltet die Stiftung in und ausserhalb ihrer Lagerr\u00e4umlichkeiten Ausstellungen; e) stellt die Stiftung ihr Sammelgut Dritten zu Ausstellungszwecken als Leihgaben zur Verf\u00fcgung. Sofern die finanziellen Mittel der Stiftung es erlauben und der Hauptzweck der Stiftung dadurch nicht beeintr\u00e4chtigt wird, unterst\u00fctzt sie K\u00fcnstler, die in den Bereichen der bildenden Kunst, Fotografie, Film, Grafik, etc. t\u00e4tig sind und einen engen Bezug zum Kanton Graub\u00fcnden haben.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "20-49",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "info@capauliana.ch",
+            "site": "www.capauliana.ch",
+            "phone": "+41812840202"
+        },
+        {
+            "id": "66818e6e-df82-4d1f-b917-25e486aa2d06",
+            "uri": "faehre-immobilien-ag-13191646281",
+            "currentName": "\"F\u00e4hre\" Immobilien AG",
+            "street": "Reiserstrasse 82",
+            "city": "Olten 1 F\u00e4cher",
+            "zip": "4601",
+            "state": "SO",
+            "countryCode": "CHE",
+            "sectors": "L010",
+            "purpose": "Erwerb, \u00dcberbauung, Verwaltung und Verkauf von Liegenschaften. Kann alle Gesch\u00e4fte t\u00e4tigen, die mit dem Gesellschaftszweck direkt oder indirekt zusammenh\u00e4ngen, Liegenschaften sowie Immaterialg\u00fcterrechte erwerben, verwerten, belasten oder ver\u00e4ussern sowie Zweigniederlassungen im In- und Ausland errichten.",
+            "preferredLanguage": "de",
+            "capital": {
+                "capitals": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "amount": "50000",
+                        "paid": "50000",
+                        "currency": "CHF",
+                        "validFrom": "1955-07-13",
+                        "invalidFrom": null
+                    }
+                ],
+                "issues": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "tranche": "1",
+                        "shareValue": "1000",
+                        "shareNumber": "50",
+                        "validFrom": "1955-07-13",
+                        "invalidFrom": null
+                    }
+                ]
+            },
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "100-199",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41622876677"
+        },
+        {
+            "id": "a575d95a-8957-4287-bcf3-353b70caaa0c",
+            "uri": "garage-nano-ermanno-de-piante-14295162481",
+            "currentName": "\"Garage Nano\" Ermanno De Piante",
+            "street": "rue des Ronzades 3",
+            "city": "Les Acacias",
+            "zip": "1227",
+            "state": "GE",
+            "countryCode": "CHE",
+            "sectors": "G011",
+            "purpose": "atelier de r\u00e9parations m\u00e9caniques et \u00e9lectriques pour v\u00e9hicules \u00e0 moteur; commerce de v\u00e9hicules \u00e0 moteur.",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41223436461"
+        },
+        {
+            "id": "a9aaefb2-c62a-4af3-9da7-29b0cb4b4c15",
+            "uri": "gelatine-ag-fur-industriedienstleistungen-12594375771",
+            "currentName": "\"Gelatine\" AG fur Industriedienstleistungen, Winterthur",
+            "street": "St. Gallerstrasse 119",
+            "city": "Winterthur",
+            "zip": "8404",
+            "state": "ZH",
+            "countryCode": "CHE",
+            "sectors": "L010",
+            "purpose": "Betrieb und Vermietung von Tiefk\u00fchllagern und anderen R\u00e4umlichkeiten f\u00fcr Industrie und Gewerbe insbesondere in den R\u00e4umen der ehemaligen Gelatinefabrik, Winterthur; kann Grundst\u00fccke erwerben, belasten und ver\u00e4ussern.",
+            "preferredLanguage": "de",
+            "capital": {
+                "capitals": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "amount": "640000",
+                        "paid": "640000",
+                        "currency": "CHF",
+                        "validFrom": "1983-06-26",
+                        "invalidFrom": null
+                    }
+                ],
+                "issues": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "tranche": "1",
+                        "shareValue": "4000.00",
+                        "shareNumber": "160",
+                        "validFrom": "1983-06-26",
+                        "invalidFrom": null
+                    }
+                ]
+            },
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41447831550"
+        },
+        {
+            "id": "24444608-806b-4386-aa40-838d03a56e33",
+            "uri": "gexist-daniel-gex-4271184821",
+            "currentName": "\"Gexist\" - Daniel Gex",
+            "street": "Rue des C\u00e8dres 9",
+            "city": "Martigny",
+            "zip": "1920",
+            "state": "VS",
+            "countryCode": "CHE",
+            "sectors": "G016",
+            "purpose": "Importation de bijoux, cr\u00e9ation de prototypes, fabrication et distribution de bijoux en argent et or avec min\u00e9raux et pierres pr\u00e9cieuse, expertises de bijoux et montres.",
+            "preferredLanguage": "fr",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "info@gexist.com",
+            "site": "www.gexist.com",
+            "phone": "+41277227456"
+        },
+        {
+            "id": "36eb9b56-4877-4653-8b34-b35eec3bbfc2",
+            "uri": "gita-productions-von-arx-12310880091",
+            "currentName": "\"Gita Productions\", von Arx",
+            "street": "Berneggweg 12",
+            "city": "Z\u00fcrich",
+            "zip": "8055",
+            "state": "ZH",
+            "countryCode": "CHE",
+            "sectors": "N030",
+            "purpose": "Planung, Organisation, Ausf\u00fchrung und Unterst\u00fctzung von Kulturprojekten; Verlagsrecht; Verwaltung von Urheberrechten, Leistungsschutzrechten und gewerblichen Schutzrechten.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41439609131"
+        },
+        {
+            "id": "c03d2990-a61d-43a3-963c-df9de39fcaff",
+            "uri": "harder-hair-design-inhaber-harder-co-13482166081",
+            "currentName": "\"HARDER HAIR-DESIGN\" Inhaber Harder & Co.",
+            "street": "Bahnhofstrasse 91",
+            "city": "Frauenfeld",
+            "zip": "8500",
+            "state": "TG",
+            "countryCode": "CHE",
+            "sectors": "S014",
+            "purpose": "F\u00fchren eines Coiffeursalons.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "www.crazyhaircorner.ch",
+            "phone": "+41527212932"
+        },
+        {
+            "id": "8d3292f1-8600-47bd-b705-81b7455875d5",
+            "uri": "hammer-sounds-m-koch-20380136171",
+            "currentName": "\"Hammer\" Sounds M. Koch",
+            "street": "Baslerstrasse 325",
+            "city": "Allschwil",
+            "zip": "4123",
+            "state": "BL",
+            "countryCode": "CHE",
+            "sectors": "G017",
+            "purpose": "An- und Verkauf von LP-, CD- und HiFi-Occasionen.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41616930166"
+        },
+        {
+            "id": "301df13e-b1d1-4d74-8c03-571b75d3eb44",
+            "uri": "handglenk-mol-phy-koeppel-11178109151",
+            "currentName": "\"Handglenk-mol-Phy\" K\u00f6ppel",
+            "street": "B\u00f6schachstrasse 75",
+            "city": "Widnau",
+            "zip": "9443",
+            "state": "SG",
+            "countryCode": "CHE",
+            "sectors": "G022",
+            "purpose": "Detailhandel",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41717225902"
+        },
+        {
+            "id": "c998ec03-e90d-4207-ab1f-2269128ae2ad",
+            "uri": "haus-des-schweizerbauern-11430511531",
+            "currentName": "\"Haus des Schweizerbauern\"",
+            "street": "Laurstrasse 10",
+            "city": "Brugg AG",
+            "zip": "5200",
+            "state": "AG",
+            "countryCode": "CHE",
+            "sectors": "S011",
+            "purpose": "Errichtung eines Verwaltungsgeb\u00e4udes, genannt \"Haus des Schweizerbauern\", um es der gesamtschweizerischen landwirtschaftlichen Organisation zur Verf\u00fcgung zu stellen, dessen Unterhaltung und n\u00f6tigenfalls Erweiterung.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "20-49",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "info@sbv-usp.ch",
+            "site": "",
+            "phone": "+41564625111"
+        },
+        {
+            "id": "40b7c8c9-ab0f-44ff-8701-5d5eecd13ca9",
+            "uri": "heidis-bluemenchischtli-h-milz-19778628221",
+            "currentName": "\"Heidi's Bluemenchischtli\" H. Milz",
+            "street": "Ringstrasse 18",
+            "city": "Gommiswald",
+            "zip": "8737",
+            "state": "SG",
+            "countryCode": "CHE",
+            "sectors": "G022",
+            "purpose": "Herstellung von, Handel mit und Verkauf von Blumenarrangements, Gebinden und Str\u00e4ussen",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41552801356"
+        },
+        {
+            "id": "7d7a8c4e-384b-459f-bd80-e8872e82284b",
+            "uri": "heidi-reisen-jean-claude-grun-3493109271",
+            "currentName": "\"Heidi-Reisen\" Jean-Claude Grun",
+            "street": "Liesbergerstrasse 65",
+            "city": "Liesberg",
+            "zip": "4253",
+            "state": "BL",
+            "countryCode": "CHE",
+            "sectors": "H011",
+            "purpose": "Betrieb eines Reisecarunternehmens.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "info@heidi-reisen.ch",
+            "site": "www.heidi-reisen.ch",
+            "phone": "+41617710306"
+        },
+        {
+            "id": "0457092e-2107-4eae-9b46-9cb008dcdd8b",
+            "uri": "holdfins-finanziaria-settentrionale-holding-i-6035707551",
+            "currentName": "\"Holdfins\" Finanziaria Settentrionale Holding Investimenti & Partecipazioni SA",
+            "street": "Via Emilio Bossi 50",
+            "city": "Chiasso",
+            "zip": "6830",
+            "state": "TI",
+            "countryCode": "CHE",
+            "sectors": "K013",
+            "purpose": "Investimento di capitali in valori mobiliari ed immobiliari: l'acquisto e la gestione di titoli azionari nazionali ed esteri; l'assunzione di partecipazioni in imprese commerciali ed industriali, anche promuovendone con interessenze e finanziamenti la loro costituzione, sviluppo, trasformazione in Svizzera e all'estero. Compiere in genere tutte le operazioni finanziarie e bancarie utili o connesse al conseguimento degli scopi sociali, sia in Svizzera ed all'estero, sotto forma di holding.",
+            "preferredLanguage": "it",
+            "capital": {
+                "capitals": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "amount": "50000",
+                        "paid": "50000",
+                        "currency": "CHF",
+                        "validFrom": "1956-02-14",
+                        "invalidFrom": null
+                    }
+                ],
+                "issues": [
+                    {
+                        "type": {
+                            "code": "2",
+                            "key": "CapitalType_2"
+                        },
+                        "tranche": "1",
+                        "shareValue": "1000",
+                        "shareNumber": "50",
+                        "validFrom": "1956-02-14",
+                        "invalidFrom": null
+                    }
+                ]
+            },
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "",
+            "site": "",
+            "phone": "+41916952777"
+        },
+        {
+            "id": "1fdab3a7-dec1-48cc-a5e2-8b0f13d7264e",
+            "uri": "hotel-gerig-inhaber-judith-und-daniel-lampart-11457970981",
+            "currentName": "\"Hotel Gerig\", Inhaber Judith und Daniel Lampart-Gerig",
+            "street": "Gotthardstrasse 40",
+            "city": "Wassen UR",
+            "zip": "6484",
+            "state": "UR",
+            "countryCode": "CHE",
+            "sectors": "I010",
+            "purpose": "Betrieb des Hotels und Restaurants 'Gerig'",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "email": "info@hotel-gerig.ch",
+            "site": "www.hotel-gerig.ch",
+            "phone": "+41418851235"
+        }
+    ]
+}

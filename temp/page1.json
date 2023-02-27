@@ -2899,125 +2899,6 @@
             "type": "organisation"
         },
         {
-            "id": "60cf6263-b7ab-4e42-9f21-19a80d5e93e2",
-            "uri": "coiffure-dani-stojanovic-21202589401",
-            "headquartersUri": null,
-            "uid": "CHE108252824",
-            "currentName": "\"Coiffure Dani\" Stojanovic",
-            "names": [
-                {
-                    "name": "\"Coiffure Dani\" Stojanovic",
-                    "language": "de",
-                    "validFrom": "2013-09-06",
-                    "invalidFrom": null
-                },
-                {
-                    "name": "\u00abCoiffure Dani\u00bb Stojanovic",
-                    "language": null,
-                    "validFrom": "1999-09-28",
-                    "invalidFrom": null
-                }
-            ],
-            "mainAddress": {
-                "type": {
-                    "code": "D",
-                    "key": "AddressType_D"
-                },
-                "careOf": null,
-                "street": "Winkelriedstrasse 61",
-                "postOfficeBox": null,
-                "city": "Luzern",
-                "zip": "6003",
-                "state": "LU",
-                "countryCode": "CHE",
-                "validFrom": "1900-01-01",
-                "invalidFrom": null,
-                "location": null
-            },
-            "addresses": [
-                {
-                    "type": {
-                        "code": "D",
-                        "key": "AddressType_D"
-                    },
-                    "careOf": null,
-                    "street": "Winkelriedstrasse 61",
-                    "postOfficeBox": null,
-                    "city": "Luzern",
-                    "zip": "6003",
-                    "state": "LU",
-                    "countryCode": "CHE",
-                    "validFrom": "1900-01-01",
-                    "invalidFrom": null,
-                    "location": null
-                },
-                {
-                    "type": {
-                        "code": "P",
-                        "key": "AddressType_P"
-                    },
-                    "careOf": null,
-                    "street": "Winkelriedstrasse 61",
-                    "postOfficeBox": null,
-                    "city": "Luzern",
-                    "zip": "6003",
-                    "state": "LU",
-                    "countryCode": "CHE",
-                    "validFrom": "1900-01-01",
-                    "invalidFrom": null,
-                    "location": null
-                }
-            ],
-            "contactDetails": null,
-            "domicile": "Luzern",
-            "status": {
-                "code": 1,
-                "key": "OrganisationSituation_1"
-            },
-            "sectors": "S014",
-            "purpose": "Betrieb eines Coiffure- und Kosmetiksalons unter der Enseigne \"Coiffure Dani\".",
-            "preferredLanguage": "de",
-            "handelsregister": {
-                "chNr": "CH10010204666",
-                "legalFormType": {
-                    "code": "1",
-                    "key": "LegalFormType_1"
-                },
-                "amtName": "LU",
-                "amtNr": "100",
-                "firstRegistered": "1997-10-03",
-                "firstShabPublicationDate": "1997-10-16",
-                "lastShabPublicationDate": "2007-08-28",
-                "deletionDate": null
-            },
-            "capital": null,
-            "turnovers": [
-                {
-                    "from": "2016-07-13",
-                    "range": "0-1",
-                    "source": {
-                        "code": 2000,
-                        "key": "OriginMark_2000"
-                    }
-                }
-            ],
-            "employees": [
-                {
-                    "from": "2016-07-13",
-                    "range": "1-3",
-                    "source": {
-                        "code": 2000,
-                        "key": "OriginMark_2000"
-                    }
-                }
-            ],
-            "managers": null,
-            "header": null,
-            "noIndex": null,
-            "lastChange": "2007-08-28",
-            "type": "organisation"
-        },
-        {
             "id": "5abcfff5-8329-44bc-9fb0-bcc76d3e4e38",
             "uri": "coiffure-piccolo-d-g-baumgartner-21459127401",
             "headquartersUri": null,
@@ -7065,6 +6946,215 @@
             "header": null,
             "noIndex": null,
             "lastChange": null,
+            "flKey": null,
+            "type": "organisation"
+        },
+        {
+            "id": "c3ab3022-2c6e-46d4-8ec6-0e395b1b0991",
+            "uri": "e-suuberi-sach-gmbh-14121852321",
+            "headquartersUri": null,
+            "uid": "CHE112200374",
+            "vatNumber": "CHE112200374",
+            "currentName": "\"E suuberi Sach\" GmbH",
+            "names": [
+                {
+                    "name": "\"E suuberi Sach\" GmbH",
+                    "language": "de",
+                    "validFrom": "2018-09-12",
+                    "invalidFrom": null
+                },
+                {
+                    "name": "'E suuberi Sach' GmbH",
+                    "language": null,
+                    "validFrom": "2005-01-28",
+                    "invalidFrom": null
+                }
+            ],
+            "mainAddress": {
+                "type": {
+                    "code": "D",
+                    "key": "AddressType_D"
+                },
+                "careOf": "Pizza Time GmbH",
+                "street": "Dornacherstrasse 154",
+                "postOfficeBox": null,
+                "city": "Basel",
+                "zip": "4053",
+                "state": "BS",
+                "countryCode": "CHE",
+                "validFrom": "2018-09-12",
+                "invalidFrom": null,
+                "location": {
+                    "lat": "47.54208800",
+                    "lon": "7.59219540"
+                }
+            },
+            "addresses": [
+                {
+                    "type": {
+                        "code": "D",
+                        "key": "AddressType_D"
+                    },
+                    "careOf": "Pizza Time GmbH",
+                    "street": "Dornacherstrasse 154",
+                    "postOfficeBox": null,
+                    "city": "Basel",
+                    "zip": "4053",
+                    "state": "BS",
+                    "countryCode": "CHE",
+                    "validFrom": "2018-09-12",
+                    "invalidFrom": null,
+                    "location": {
+                        "lat": "47.54208800",
+                        "lon": "7.59219540"
+                    }
+                },
+                {
+                    "type": {
+                        "code": "P",
+                        "key": "AddressType_P"
+                    },
+                    "careOf": "Pizza Time GmbH",
+                    "street": "Dornacherstrasse 154",
+                    "postOfficeBox": null,
+                    "city": "Basel",
+                    "zip": "4053",
+                    "state": "BS",
+                    "countryCode": "CHE",
+                    "validFrom": "2018-09-12",
+                    "invalidFrom": null,
+                    "location": {
+                        "lat": "47.54208800",
+                        "lon": "7.59219540"
+                    }
+                },
+                {
+                    "type": {
+                        "code": "D",
+                        "key": "AddressType_D"
+                    },
+                    "careOf": null,
+                    "street": "Blochmonterstrasse 4",
+                    "postOfficeBox": null,
+                    "city": "Basel",
+                    "zip": "4054",
+                    "state": "BS",
+                    "countryCode": "CHE",
+                    "validFrom": "2018-03-06",
+                    "invalidFrom": null,
+                    "location": null
+                },
+                {
+                    "type": {
+                        "code": "P",
+                        "key": "AddressType_P"
+                    },
+                    "careOf": null,
+                    "street": "Blochmonterstrasse 4",
+                    "postOfficeBox": null,
+                    "city": "Basel",
+                    "zip": "4054",
+                    "state": "BS",
+                    "countryCode": "CHE",
+                    "validFrom": "2018-03-06",
+                    "invalidFrom": null,
+                    "location": null
+                },
+                {
+                    "type": {
+                        "code": "D",
+                        "key": "AddressType_D"
+                    },
+                    "careOf": null,
+                    "street": "Dornacherstrasse 176",
+                    "postOfficeBox": null,
+                    "city": "Basel",
+                    "zip": "4053",
+                    "state": "BS",
+                    "countryCode": "CHE",
+                    "validFrom": "2014-02-20",
+                    "invalidFrom": null,
+                    "location": null
+                },
+                {
+                    "type": {
+                        "code": "P",
+                        "key": "AddressType_P"
+                    },
+                    "careOf": null,
+                    "street": "Dornacherstrasse 176",
+                    "postOfficeBox": null,
+                    "city": "Basel",
+                    "zip": "4053",
+                    "state": "BS",
+                    "countryCode": "CHE",
+                    "validFrom": "2014-02-20",
+                    "invalidFrom": null,
+                    "location": null
+                }
+            ],
+            "contactDetails": null,
+            "domicile": "Basel",
+            "status": {
+                "code": 1,
+                "key": "OrganisationSituation_1"
+            },
+            "sectors": "N024",
+            "purpose": "Zweck der Gesellschaft sind Dienstleistungen aller Art im Bereich von Reinigung und Unterhalt von Liegenschaften sowie Erbringung aller damit zusammenh\u00e4ngender T\u00e4tigkeiten. Die Gesellschaft kann alle Gesch\u00e4fte t\u00e4tigen, welche die Entwicklung des Unternehmens und die Erreichung des Gesellschaftszwecks f\u00f6rdern. Sie kann im In- und Ausland Grundeigentum erwerben, belasten, ver\u00e4ussern oder verwalten, wobei der Erwerb von Grundeigentum nur in den Schranken des entsprechenden Bewilligungsgesetzes \u00fcber den Erwerb von Grundst\u00fccken durch Personen im Ausland zul\u00e4ssig ist. Ebenso ist sie berechtigt, im In- und Ausland Zweigniederlassungen und Tochtergesellschaften zu errichten und sich an anderen Unternehmungen zu beteiligen.",
+            "preferredLanguage": "de",
+            "handelsregister": {
+                "chNr": "CH27040140984",
+                "legalFormType": {
+                    "code": "4",
+                    "key": "LegalFormType_4"
+                },
+                "amtName": "BS",
+                "amtNr": "270",
+                "firstRegistered": "2005-01-21",
+                "firstShabPublicationDate": "2005-01-27",
+                "lastShabPublicationDate": "2018-09-12",
+                "deletionDate": null
+            },
+            "capital": {
+                "capitals": [
+                    {
+                        "type": {
+                            "code": "3",
+                            "key": "CapitalType_3"
+                        },
+                        "amount": "20000",
+                        "paid": "20000",
+                        "currency": "CHF",
+                        "validFrom": "2005-01-27",
+                        "invalidFrom": null
+                    }
+                ],
+                "issues": []
+            },
+            "turnovers": [
+                {
+                    "from": "2016-07-13",
+                    "range": "0-1",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "managers": null,
+            "header": null,
+            "noIndex": null,
+            "lastChange": "2018-09-12",
             "flKey": null,
             "type": "organisation"
         }

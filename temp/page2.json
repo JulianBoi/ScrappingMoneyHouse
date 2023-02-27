@@ -1,215 +1,6 @@
 {
     "data": [
         {
-            "id": "c3ab3022-2c6e-46d4-8ec6-0e395b1b0991",
-            "uri": "e-suuberi-sach-gmbh-14121852321",
-            "headquartersUri": null,
-            "uid": "CHE112200374",
-            "vatNumber": "CHE112200374",
-            "currentName": "\"E suuberi Sach\" GmbH",
-            "names": [
-                {
-                    "name": "\"E suuberi Sach\" GmbH",
-                    "language": "de",
-                    "validFrom": "2018-09-12",
-                    "invalidFrom": null
-                },
-                {
-                    "name": "'E suuberi Sach' GmbH",
-                    "language": null,
-                    "validFrom": "2005-01-28",
-                    "invalidFrom": null
-                }
-            ],
-            "mainAddress": {
-                "type": {
-                    "code": "D",
-                    "key": "AddressType_D"
-                },
-                "careOf": "Pizza Time GmbH",
-                "street": "Dornacherstrasse 154",
-                "postOfficeBox": null,
-                "city": "Basel",
-                "zip": "4053",
-                "state": "BS",
-                "countryCode": "CHE",
-                "validFrom": "2018-09-12",
-                "invalidFrom": null,
-                "location": {
-                    "lat": "47.54208800",
-                    "lon": "7.59219540"
-                }
-            },
-            "addresses": [
-                {
-                    "type": {
-                        "code": "D",
-                        "key": "AddressType_D"
-                    },
-                    "careOf": "Pizza Time GmbH",
-                    "street": "Dornacherstrasse 154",
-                    "postOfficeBox": null,
-                    "city": "Basel",
-                    "zip": "4053",
-                    "state": "BS",
-                    "countryCode": "CHE",
-                    "validFrom": "2018-09-12",
-                    "invalidFrom": null,
-                    "location": {
-                        "lat": "47.54208800",
-                        "lon": "7.59219540"
-                    }
-                },
-                {
-                    "type": {
-                        "code": "P",
-                        "key": "AddressType_P"
-                    },
-                    "careOf": "Pizza Time GmbH",
-                    "street": "Dornacherstrasse 154",
-                    "postOfficeBox": null,
-                    "city": "Basel",
-                    "zip": "4053",
-                    "state": "BS",
-                    "countryCode": "CHE",
-                    "validFrom": "2018-09-12",
-                    "invalidFrom": null,
-                    "location": {
-                        "lat": "47.54208800",
-                        "lon": "7.59219540"
-                    }
-                },
-                {
-                    "type": {
-                        "code": "D",
-                        "key": "AddressType_D"
-                    },
-                    "careOf": null,
-                    "street": "Blochmonterstrasse 4",
-                    "postOfficeBox": null,
-                    "city": "Basel",
-                    "zip": "4054",
-                    "state": "BS",
-                    "countryCode": "CHE",
-                    "validFrom": "2018-03-06",
-                    "invalidFrom": null,
-                    "location": null
-                },
-                {
-                    "type": {
-                        "code": "P",
-                        "key": "AddressType_P"
-                    },
-                    "careOf": null,
-                    "street": "Blochmonterstrasse 4",
-                    "postOfficeBox": null,
-                    "city": "Basel",
-                    "zip": "4054",
-                    "state": "BS",
-                    "countryCode": "CHE",
-                    "validFrom": "2018-03-06",
-                    "invalidFrom": null,
-                    "location": null
-                },
-                {
-                    "type": {
-                        "code": "D",
-                        "key": "AddressType_D"
-                    },
-                    "careOf": null,
-                    "street": "Dornacherstrasse 176",
-                    "postOfficeBox": null,
-                    "city": "Basel",
-                    "zip": "4053",
-                    "state": "BS",
-                    "countryCode": "CHE",
-                    "validFrom": "2014-02-20",
-                    "invalidFrom": null,
-                    "location": null
-                },
-                {
-                    "type": {
-                        "code": "P",
-                        "key": "AddressType_P"
-                    },
-                    "careOf": null,
-                    "street": "Dornacherstrasse 176",
-                    "postOfficeBox": null,
-                    "city": "Basel",
-                    "zip": "4053",
-                    "state": "BS",
-                    "countryCode": "CHE",
-                    "validFrom": "2014-02-20",
-                    "invalidFrom": null,
-                    "location": null
-                }
-            ],
-            "contactDetails": null,
-            "domicile": "Basel",
-            "status": {
-                "code": 1,
-                "key": "OrganisationSituation_1"
-            },
-            "sectors": "N024",
-            "purpose": "Zweck der Gesellschaft sind Dienstleistungen aller Art im Bereich von Reinigung und Unterhalt von Liegenschaften sowie Erbringung aller damit zusammenh\u00e4ngender T\u00e4tigkeiten. Die Gesellschaft kann alle Gesch\u00e4fte t\u00e4tigen, welche die Entwicklung des Unternehmens und die Erreichung des Gesellschaftszwecks f\u00f6rdern. Sie kann im In- und Ausland Grundeigentum erwerben, belasten, ver\u00e4ussern oder verwalten, wobei der Erwerb von Grundeigentum nur in den Schranken des entsprechenden Bewilligungsgesetzes \u00fcber den Erwerb von Grundst\u00fccken durch Personen im Ausland zul\u00e4ssig ist. Ebenso ist sie berechtigt, im In- und Ausland Zweigniederlassungen und Tochtergesellschaften zu errichten und sich an anderen Unternehmungen zu beteiligen.",
-            "preferredLanguage": "de",
-            "handelsregister": {
-                "chNr": "CH27040140984",
-                "legalFormType": {
-                    "code": "4",
-                    "key": "LegalFormType_4"
-                },
-                "amtName": "BS",
-                "amtNr": "270",
-                "firstRegistered": "2005-01-21",
-                "firstShabPublicationDate": "2005-01-27",
-                "lastShabPublicationDate": "2018-09-12",
-                "deletionDate": null
-            },
-            "capital": {
-                "capitals": [
-                    {
-                        "type": {
-                            "code": "3",
-                            "key": "CapitalType_3"
-                        },
-                        "amount": "20000",
-                        "paid": "20000",
-                        "currency": "CHF",
-                        "validFrom": "2005-01-27",
-                        "invalidFrom": null
-                    }
-                ],
-                "issues": []
-            },
-            "turnovers": [
-                {
-                    "from": "2016-07-13",
-                    "range": "0-1",
-                    "source": {
-                        "code": 2000,
-                        "key": "OriginMark_2000"
-                    }
-                }
-            ],
-            "employees": [
-                {
-                    "from": "2016-07-13",
-                    "range": "1-3",
-                    "source": {
-                        "code": 2000,
-                        "key": "OriginMark_2000"
-                    }
-                }
-            ],
-            "managers": null,
-            "header": null,
-            "noIndex": null,
-            "lastChange": "2018-09-12",
-            "flKey": null,
-            "type": "organisation"
-        },
-        {
             "id": "fd07c573-f7cc-4165-9ff6-28506809e2c5",
             "uri": "esm-diakonie-und-sozialstiftung-14389384751",
             "headquartersUri": null,
@@ -1074,7 +865,7 @@
                 {
                     "name": "\"Entre-Nous\" Elisa locci",
                     "language": "fr",
-                    "validFrom": "2022-03-15",
+                    "validFrom": "2023-02-10",
                     "invalidFrom": null
                 }
             ],
@@ -1160,8 +951,26 @@
                 "deletionDate": null
             },
             "capital": null,
-            "turnovers": null,
-            "employees": null,
+            "turnovers": [
+                {
+                    "from": "2023-02-14",
+                    "range": "no_data",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "employees": [
+                {
+                    "from": "2023-02-14",
+                    "range": "1-3",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
             "managers": null,
             "header": null,
             "noIndex": null,
@@ -1336,7 +1145,7 @@
                 {
                     "name": "\"Esco-Plast\" Schondorff & Co",
                     "language": "de",
-                    "validFrom": "2021-04-21",
+                    "validFrom": "2023-02-10",
                     "invalidFrom": null
                 },
                 {
@@ -4586,7 +4395,7 @@
                 {
                     "name": "\"F\u00e9d\u00e9ral\" - Liegenschaften AG",
                     "language": "de",
-                    "validFrom": "2021-09-15",
+                    "validFrom": "2023-02-10",
                     "invalidFrom": null
                 },
                 {
@@ -5314,6 +5123,8 @@
             "header": null,
             "noIndex": null,
             "lastChange": "2017-01-09",
+            "hasHoldings": "1",
+            "hasParticipations": "0",
             "flKey": null,
             "type": "organisation"
         },
@@ -5328,7 +5139,7 @@
                 {
                     "name": "\"GenKa\" - Kateryna Gentizon",
                     "language": "fr",
-                    "validFrom": "2022-04-06",
+                    "validFrom": "2023-02-13",
                     "invalidFrom": null
                 },
                 {
@@ -5350,20 +5161,58 @@
                     "key": "AddressType_D"
                 },
                 "careOf": null,
-                "street": "Faubourg du Lac 41",
+                "street": "Route de Montet 31",
                 "postOfficeBox": null,
-                "city": "Neuch\u00e2tel",
-                "zip": "2000",
-                "state": "NE",
+                "city": "Cudrefin",
+                "zip": "1588",
+                "state": "VD",
                 "countryCode": "CHE",
-                "validFrom": "2021-01-13",
+                "validFrom": "2023-02-13",
                 "invalidFrom": null,
                 "location": {
-                    "lat": "46.99434680",
-                    "lon": "6.93695330"
+                    "lat": "46.95150460",
+                    "lon": "7.02671380"
                 }
             },
             "addresses": [
+                {
+                    "type": {
+                        "code": "D",
+                        "key": "AddressType_D"
+                    },
+                    "careOf": null,
+                    "street": "Route de Montet 31",
+                    "postOfficeBox": null,
+                    "city": "Cudrefin",
+                    "zip": "1588",
+                    "state": "VD",
+                    "countryCode": "CHE",
+                    "validFrom": "2023-02-13",
+                    "invalidFrom": null,
+                    "location": {
+                        "lat": "46.95150460",
+                        "lon": "7.02671380"
+                    }
+                },
+                {
+                    "type": {
+                        "code": "P",
+                        "key": "AddressType_P"
+                    },
+                    "careOf": null,
+                    "street": "Route de Montet 31",
+                    "postOfficeBox": null,
+                    "city": "Cudrefin",
+                    "zip": "1588",
+                    "state": "VD",
+                    "countryCode": "CHE",
+                    "validFrom": "2023-02-13",
+                    "invalidFrom": null,
+                    "location": {
+                        "lat": "46.95150460",
+                        "lon": "7.02671380"
+                    }
+                },
                 {
                     "type": {
                         "code": "D",
@@ -5436,7 +5285,7 @@
                 }
             ],
             "contactDetails": null,
-            "domicile": "Neuch\u00e2tel",
+            "domicile": "Cudrefin",
             "status": {
                 "code": 1,
                 "key": "OrganisationSituation_1"
@@ -5450,11 +5299,11 @@
                     "code": "1",
                     "key": "LegalFormType_1"
                 },
-                "amtName": "NE",
-                "amtNr": "645",
+                "amtName": "VD",
+                "amtNr": "550",
                 "firstRegistered": "2018-01-23",
                 "firstShabPublicationDate": "2018-01-26",
-                "lastShabPublicationDate": "2022-04-06",
+                "lastShabPublicationDate": "2023-02-13",
                 "deletionDate": null
             },
             "capital": null,
@@ -5497,7 +5346,7 @@
             "managers": null,
             "header": null,
             "noIndex": null,
-            "lastChange": "2022-04-06",
+            "lastChange": "2023-02-13",
             "flKey": null,
             "type": "organisation"
         },
@@ -7558,6 +7407,127 @@
             "header": null,
             "noIndex": null,
             "lastChange": "2020-04-20",
+            "type": "organisation"
+        },
+        {
+            "id": "538e898c-5cdd-46bc-bf7e-e124ff977854",
+            "uri": "img-liechti-cie-6838601991",
+            "headquartersUri": null,
+            "uid": "CHE100094674",
+            "vatNumber": "CHE100094674",
+            "currentName": "\"IMG\" Liechti & Cie",
+            "names": [
+                {
+                    "name": "\"IMG\" Liechti & Cie",
+                    "language": "fr",
+                    "validFrom": "2016-07-25",
+                    "invalidFrom": null
+                },
+                {
+                    "name": "'IMG' Liechti & Cie",
+                    "language": null,
+                    "validFrom": "2002-04-17",
+                    "invalidFrom": null
+                }
+            ],
+            "mainAddress": {
+                "type": {
+                    "code": "D",
+                    "key": "AddressType_D"
+                },
+                "careOf": null,
+                "street": "rue de l'Ancien-Port 5-7",
+                "postOfficeBox": null,
+                "city": "Gen\u00e8ve",
+                "zip": "1200",
+                "state": "GE",
+                "countryCode": "CHE",
+                "validFrom": "1900-01-01",
+                "invalidFrom": null,
+                "location": null
+            },
+            "addresses": [
+                {
+                    "type": {
+                        "code": "P",
+                        "key": "AddressType_P"
+                    },
+                    "careOf": null,
+                    "street": "rue de l'Ancien-Port 5-7",
+                    "postOfficeBox": null,
+                    "city": "Gen\u00e8ve",
+                    "zip": "1200",
+                    "state": "GE",
+                    "countryCode": "CHE",
+                    "validFrom": "2014-01-27",
+                    "invalidFrom": null,
+                    "location": null
+                },
+                {
+                    "type": {
+                        "code": "D",
+                        "key": "AddressType_D"
+                    },
+                    "careOf": null,
+                    "street": "rue de l'Ancien-Port 5-7",
+                    "postOfficeBox": null,
+                    "city": "Gen\u00e8ve",
+                    "zip": "1200",
+                    "state": "GE",
+                    "countryCode": "CHE",
+                    "validFrom": "1900-01-01",
+                    "invalidFrom": null,
+                    "location": null
+                }
+            ],
+            "contactDetails": null,
+            "domicile": "Gen\u00e8ve",
+            "status": {
+                "code": 1,
+                "key": "OrganisationSituation_1"
+            },
+            "sectors": "R010",
+            "purpose": "Commerce, contr\u00f4le, \u00e9dition et diffusion d'oeuvres artistiques, litt\u00e9raires et musicales.",
+            "preferredLanguage": "fr",
+            "handelsregister": {
+                "chNr": "CH66001029673",
+                "legalFormType": {
+                    "code": "10",
+                    "key": "LegalFormType_10"
+                },
+                "amtName": "GE",
+                "amtNr": "660",
+                "firstRegistered": null,
+                "firstShabPublicationDate": "1967-07-24",
+                "lastShabPublicationDate": "2016-07-25",
+                "deletionDate": null
+            },
+            "capital": null,
+            "turnovers": [
+                {
+                    "from": "2016-07-13",
+                    "range": "no_data",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "employees": [
+                {
+                    "from": "2016-07-13",
+                    "range": "4-9",
+                    "source": {
+                        "code": 2000,
+                        "key": "OriginMark_2000"
+                    }
+                }
+            ],
+            "managers": null,
+            "header": null,
+            "noIndex": null,
+            "lastChange": "2016-07-25",
+            "flKey": null,
             "type": "organisation"
         }
     ]

@@ -1,0 +1,335 @@
+name= 			query
+status= 														
+			1 	actif
+			3	en liquitation
+			5	radié
+legalForm=												
+                        6	Association
+                        9	Filiale avec siège principal en Suisse
+                        92	Filiale étrangère
+                        7	Fondation
+                        1010	Fondation déposée
+                        89	Forme juridique non définie
+                        8	Forme juridique particulière
+                        84	Indivision
+                        85	Institut
+                        82	Personne morale indépendante de droit public
+                        1	Raison individuelle
+                        3	Société anonyme
+			5	Société coopérative
+                        10	Société en commandite
+                        2	Société en nom collectif
+                        1022	Société fidéicommissaire
+                        4	Société à responsabilité limitée
+                        1021	Tutelle
+turnoverRanges=
+                        0-1
+                        1-10
+                        10-20
+                        20-30
+                        30-40
+                        40-50
+                        50-100
+                        100-200
+                        200-300
+                        300-400
+                        400-500
+                        >500
+                        no_data	Inconnu
+employeeRanges=
+                        1-3
+                        4-9
+                        10-19
+                        20-49
+                        50-99
+                        100-199
+                        200-499
+                        500-1000
+                        1000
+                        no_data	Inconnu
+hasParticipations=
+                        1	avec des entrées
+                        0	sans entrées
+hasBrands=
+                        1	avec des entrées
+                        0	sans entrées
+
+
+
+hasBuildingProjects=
+                        1	avec des entrées
+                        0	sans entrées
+hasJobs=
+                        1	avec des entrées
+                        0	sans entrées
+country=
+			che	Suisse
+                        lie	Liechtenstein
+sector=
+                        C010 Abattoir/Abattoir
+                        Q016 Accompagnement social des personnes âgées et des personnes handicapées/Accompagnement social des personnes âgées et des personnes handicapées
+                        L010 Achat &amp; vente de biens immobiliers propres/Achat &amp; vente de biens immobiliers propres
+                        L011 Achat et vente de biens immobiliers/Achat et vente de biens immobiliers
+                        R010 Activités créatives, artistiques et de spectacle/Activités créatives, artistiques et de spectacle
+                        I015 Administration des restaurants/Administration des restaurants
+                        O010 Administrations publiques/Administrations publiques
+                        O012 Affaires étrangères, sécurité et protection (officielle)/Affaires étrangères, sécurité et protection (officielle)
+                        N018 Agences de voyage et voyagistes/Agences de voyage et voyagistes
+                        A010 Agriculture (comestibles)/Agriculture (comestibles)
+                        A012 Agriculture (diverse)/Agriculture (diverse)
+                        U010 Ambassades et consulats/Ambassades et consulats
+                        D012 Approvisionnement en chaleur et en froid/Approvisionnement en chaleur et en froid
+                        E010 Approvisionnement en eau et evacuation des aux usées/Approvisionnement en eau et evacuation des aux usées
+                        S010 Associations et fédérations/Associations et fédérations
+                        S011 Associations religieuses, politiques ou laïques/Associations religieuses, politiques ou laïques
+                        M021 Ateliers de design, de graphisme et de bijoux/Ateliers de design, de graphisme et de bijoux
+                        B014 Autre industrie minière/Autre industrie minière
+                        N017 Autre placement de main d'œuvre/Autre placement de main d'œuvre
+                        P018 Autre services dans l'éducation/Autre services dans l'éducation
+                        M025 Autres activités libérales/Autres activités libérales
+                        Q017 Autres activités sociales/Autres activités sociales
+                        F017 Autres aménagements (y c. aménagement intérieur)/Autres aménagements (y c. aménagement intérieur)
+                        G022 Autres commerces avec des biens divers/Autres commerces avec des biens divers
+                        P014 Autres ecoles secondaires/Autres ecoles secondaires
+                        N019 Autres services de réservation/Autres services de réservation
+                        R016 Autres services de spectacles et d’activités récréatives/Autres services de spectacles et d’activités récréatives
+                        H017 Autres services de transport/Autres services de transport
+                        I016 Autres services gastronomiques/Autres services gastronomiques
+                        F020 Autres travaux de construction/Autres travaux de construction
+                        S016 Blanchisserie/Blanchisserie
+                        M016 Bureaux d'architecture et d'ingénierie/Bureaux d'architecture et d'ingénierie
+                        F011 Bâtiments général/Bâtiments général
+                        F021 Charpenterie, couverture tuiles et construction en bois/Charpenterie, couverture tuiles et construction en bois
+                        E011 Collecte, traitement et élimination des déchets/Collecte, traitement et élimination des déchets
+                        G018 Commerce avec machines/Commerce avec machines
+                        G016 Commerce de biens de consommation/Commerce de biens de consommation
+                        G023 Commerce de détail de carburant (stations-service)/Commerce de détail de carburant (stations-service)
+                        G025 Commerce de détail de produits des loisirs/Commerce de détail de produits des loisirs
+                        G027 Commerce de détail par correspondance et par Internet/Commerce de détail par correspondance et par Internet
+                        G014 Commerce de matières premières agricoles et animaux/Commerce de matières premières agricoles et animaux
+                        G015 Commerce de produits alimentaires/Commerce de produits alimentaires
+                        G017 Commerce de produits informatiques et de communication/Commerce de produits informatiques et de communication
+                        G019 Commerce de produits tabac/Commerce de produits tabac
+                        G010 Commerce de véhicules/Commerce de véhicules
+                        G021 Commerce des vêtements/Commerce des vêtements
+                        G012 Commerce d’accessoires automobiles/Commerce d’accessoires automobiles
+                        G024 Commerce d’appareils ménagers et des biens similaires/Commerce d’appareils ménagers et des biens similaires
+                        G011 Commerce et réparation des automobiles et motos/Commerce et réparation des automobiles et motos
+                        M010 Conseil juridique/Conseil juridique
+                        V011 Conservation des espèces et centre de récupération/Conservation des espèces et centre de récupération
+                        F012 Construction de bâtiments/Construction de bâtiments
+                        F013 Construction de routes, de voies ferrées et de tunnel/Construction de routes, de voies ferrées et de tunnel
+                        M022 Design d'intérieur et décoration/Design d'intérieur et décoration
+                        J014 Diffuseur de programmes radio et télévision/Diffuseur de programmes radio et télévision
+                        P015 Ecoles de niveau tertiaire/Ecoles de niveau tertiaire
+                        A013 Elevage d’animaux/Elevage d’animaux
+                        E013 Elimination de la pollution environnementale/Elimination de la pollution environnementale
+                        C019 Ennoblissement des textiles/Ennoblissement des textiles
+                        M017 Etudes techniques, physiques et chimiques/Etudes techniques, physiques et chimiques
+                        K014 Exploitation d'un société d'assurances/Exploitation d'un société d'assurances
+                        K017 Exploitation d'un société des caisses de retraite/Exploitation d'un société des caisses de retraite
+                        K016 Exploitation d'un société des réassurances/Exploitation d'un société des réassurances
+                        K015 Exploitation d'une caisse maladie/Exploitation d'une caisse maladie
+                        C028 Exploitation d'une imprimerie et/ou d'une reliure/Exploitation d'une imprimerie et/ou d'une reliure
+                        J013 Exploitation de studios d’enregistrement/Exploitation de studios d’enregistrement
+                        P013 Exploitation delles ecoles de maturité/Exploitation delles ecoles de maturité
+                        P011 Exploitation delles ecoles primaires/Exploitation delles ecoles primaires
+                        O013 Exploitation des assurances sociales/Exploitation des assurances sociales
+                        K013 Exploitation des autres institutions financières/Exploitation des autres institutions financières
+                        Q015 Exploitation des autres résidences (sauf résidences de vacances)/Exploitation des autres résidences (sauf résidences de vacances)
+                        K010 Exploitation des banques et instituts de crédits/Exploitation des banques et instituts de crédits
+                        R012 Exploitation des bibliothèques et musées/Exploitation des bibliothèques et musées
+                        Q011 Exploitation des cabinets médicaux et dentaires/Exploitation des cabinets médicaux et dentaires
+                        N028 Exploitation des centres d’appel/Exploitation des centres d’appel
+                        P012 Exploitation des collèges/Exploitation des collèges
+                        N027 Exploitation des copy shops/Exploitation des copy shops
+                        N022 Exploitation des détectives/Exploitation des détectives
+                        Q013 Exploitation des etablissements de soins et soins stationnaires/Exploitation des etablissements de soins et soins stationnaires
+                        Q012 Exploitation des etablissements généraux de santé/Exploitation des etablissements généraux de santé
+                        K012 Exploitation des fonds de placement et autres entités financières/Exploitation des fonds de placement et autres entités financières
+                        Q010 Exploitation des hôpitaux/Exploitation des hôpitaux
+                        R013 Exploitation des jardins botaniques et zoos/Exploitation des jardins botaniques et zoos
+                        P010 Exploitation des jardins d’enfants et structures préscolaires/Exploitation des jardins d’enfants et structures préscolaires
+                        Q014 Exploitation des résidences pour personnes âgées et personnes handicapées/Exploitation des résidences pour personnes âgées et personnes handicapées
+                        S017 Exploitation des services divers/Exploitation des services divers
+                        K011 Exploitation des sociétés de participation/Exploitation des sociétés de participation
+                        N012 Exploitation des vidéothèques/Exploitation des vidéothèques
+                        J012 Exploiter d'un cinéma/Exploiter d'un cinéma
+                        J010 Exploiter d'un édition (analogue/digitale)/Exploiter d'un édition (analogue/digitale)
+                        I010 Exploiter des Hôtels, auberges et pensions/Exploiter des Hôtels, auberges et pensions
+                        I013 Exploiter des autres établissements d’hébergement/Exploiter des autres établissements d’hébergement
+                        I017 Exploiter des bars/Exploiter des bars
+                        I018 Exploiter des discothèques/Exploiter des discothèques
+                        I014 Exploiter des etablissement de restauration/Exploiter des etablissement de restauration
+                        I011 Exploiter des logements de vacances/Exploiter des logements de vacances
+                        I012 Exploiter des terrains de camping/Exploiter des terrains de camping
+                        C024 Exploiter une scierie/Exploiter une scierie
+                        B013 Extraction de pierre et sol/Extraction de pierre et sol
+                        B011 Extraction de pétrole et gaz naturel/Extraction de pétrole et gaz naturel
+                        D011 Extraction et approvisionnement en gaz/Extraction et approvisionnement en gaz
+                        C061 Fabrication automobile/Fabrication automobile
+                        C078 Fabrication d'appareils d'éclairage/Fabrication d'appareils d'éclairage
+                        C074 Fabrication d'autres produits/Fabrication d'autres produits
+                        C063 Fabrication de bateaux et navires/Fabrication de bateaux et navires
+                        C055 Fabrication de batteries/Fabrication de batteries
+                        C062 Fabrication de carrosseries, de remorques et d'accessoires/Fabrication de carrosseries, de remorques et d'accessoires
+                        C023 Fabrication de chaussures/Fabrication de chaussures
+                        C048 Fabrication de composants électroniques/Fabrication de composants électroniques
+                        C056 Fabrication de câbles et fils/Fabrication de câbles et fils
+                        C070 Fabrication de jouets/Fabrication de jouets
+                        C059 Fabrication de machines agricoles/Fabrication de machines agricoles
+                        C060 Fabrication de machines-outils/Fabrication de machines-outils
+                        C067 Fabrication de meubles/Fabrication de meubles
+                        C054 Fabrication de moteurs électriques et de générateurs/Fabrication de moteurs électriques et de générateurs
+                        C036 Fabrication de produits en caoutchouc et plastiques/Fabrication de produits en caoutchouc et plastiques
+                        C035 Fabrication de substances pharmaceutiques/Fabrication de substances pharmaceutiques
+                        C053 Fabrication de supports de données/Fabrication de supports de données
+                        C064 Fabrication de véhicules ferroviaires et autres véhicules similaires/Fabrication de véhicules ferroviaires et autres véhicules similaires
+                        C021 Fabrication de vêtements/Fabrication de vêtements
+                        C022 Fabrication des articles en cuir ou pelage/Fabrication des articles en cuir ou pelage
+                        C072 Fabrication des bijoux et des produits similaires/Fabrication des bijoux et des produits similaires
+                        C032 Fabrication des produits chimiques/Fabrication des produits chimiques
+                        C033 Fabrication des produits de la débourrage et cosmétique/Fabrication des produits de la débourrage et cosmétique
+                        C071 Fabrication des produits médicaux/Fabrication des produits médicaux
+                        C020 Fabrication des textiles (sans textile)/Fabrication des textiles (sans textile)
+                        C034 Fabrication du couleur ou produits similaire/Fabrication du couleur ou produits similaire
+                        C050 Fabrication d’appareils de télécommunication et éléctronique grand public/Fabrication d’appareils de télécommunication et éléctronique grand public
+                        C049 Fabrication d’appareils informatiques/Fabrication d’appareils informatiques
+                        C057 Fabrication d’appareils ménagers/Fabrication d’appareils ménagers
+                        C045 Fabrication d’armes et de munitions/Fabrication d’armes et de munitions
+                        C052 Fabrication d’autres appareils électriques/Fabrication d’autres appareils électriques
+                        C058 Fabrication d’autres machines et parties desquelles/Fabrication d’autres machines et parties desquelles
+                        C066 Fabrication d’autres véhicules/Fabrication d’autres véhicules
+                        C065 Fabrication d’aéronefs et de véhicules spatiaux/Fabrication d’aéronefs et de véhicules spatiaux
+                        C068 Fabrication d’instruments (musical)/Fabrication d’instruments (musical)
+                        C051 Fabrication d’instruments de mesure et de contrôle/Fabrication d’instruments de mesure et de contrôle
+                        C047 Fabrication d’outils, de coutellerie et de serrures/Fabrication d’outils, de coutellerie et de serrures
+                        C069 Fabrication d’équipements de sport/Fabrication d’équipements de sport
+                        C041 Fabrication et traitement du fer et de l'acier/Fabrication et traitement du fer et de l'acier
+                        C026 Fabrication et transformation des produits du bois/Fabrication et transformation des produits du bois
+                        C027 Fabrication et transformation des produits du papier et carton/Fabrication et transformation des produits du papier et carton
+                        N023 Facility Management/Facility Management
+                        G020 Farmacia/Farmacia
+                        C018 Filature et tissage/Filature et tissage
+                        C043 Fonderies/Fonderies
+                        J017 Fourniture de service de traitement et d’hébergement de données/Fourniture de service de traitement et d’hébergement de données
+                        J016 Fourniture de services informatiques/Fourniture de services informatiques
+                        S014 Fourniture de services à la personne dans le domaine de la santé et de la beauté/Fourniture de services à la personne dans le domaine de la santé et de la beauté
+                        N030 Fourniture d’autres services aux entreprises/Fourniture d’autres services aux entreprises
+                        J018 Fourniture d’autres services d’information/Fourniture d’autres services d’information
+                        V010 Gestion d'une indivision/Gestion d'une indivision
+                        K020 Gestion de fonds/Gestion de fonds
+                        M013 Gestion d’entreprise et administration/Gestion d’entreprise et administration
+                        A016 Gestion forestière/Gestion forestière
+                        F014 Génie civil conduites et stations d’épuration/Génie civil conduites et stations d’épuration
+                        B012 Industrie minière minerai/Industrie minière minerai
+                        G013 Intermédiaires commerciaux dans divers domaines/Intermédiaires commerciaux dans divers domaines
+                        N025 Jardinage et aménagements paysagers/Jardinage et aménagements paysagers
+                        R014 Jeux de hasard, services de pari et loteries/Jeux de hasard, services de pari et loteries
+                        R011 Journalisme/Journalisme
+                        N014 Leasing d’immobilisations corporelles/Leasing d’immobilisations corporelles
+                        N011 Location de biens de consommation/Location de biens de consommation
+                        N013 Location de machines et d’autres biens mobiliers/Location de machines et d’autres biens mobiliers
+                        N010 Location de véhicules/Location de véhicules
+                        F023 Maçonnerie/Maçonnerie
+                        T011 Ménages privés avec personnel de maison/Ménages privés avec personnel de maison
+                        N024 Nettoyage de bâtiments/Nettoyage de bâtiments
+                        M011 Office de notaire et avocat/Office de notaire et avocat
+                        N029 Organisateur de salons, d’expositions et de congrès/Organisateur de salons, d’expositions et de congrès
+                        F018 Peintre en bâtiment/Peintre en bâtiment
+                        M023 Photographie et exploitation laboratoire photo/Photographie et exploitation laboratoire photo
+                        N015 Placement de main d'œuvre/Placement de main d'œuvre
+                        N016 Placement de travailleurs intérimaires/Placement de travailleurs intérimaires
+                        S015 Pompes funèbres/Pompes funèbres
+                        G080 Prestations de service/Prestations de service
+                        C016 Production de boissons (avec alcool)/Production de boissons (avec alcool)
+                        C017 Production de boissons (sans alcool)/Production de boissons (sans alcool)
+                        C012 Production de produits de boulangerie/Production de produits de boulangerie
+                        C037 Production de verre et céramique/Production de verre et céramique
+                        C013 Production des comestibles/Production des comestibles
+                        C042 Production des métaux non ferreux/Production des métaux non ferreux
+                        C044 Production du produits métalliques/Production du produits métalliques
+                        C015 Production du tabac/Production du tabac
+                        C014 Production d’aliments pour animaux/Production d’aliments pour animaux
+                        D010 Production et approvisionnement en électricité/Production et approvisionnement en électricité
+                        C038 Production et traitement de matériau de construction/Production et traitement de matériau de construction
+                        C040 Production industrielle diverse/Production industrielle diverse
+                        J011 Production, location et distribution de films et de programmes TV/Production, location et distribution de films et de programmes TV
+                        A017 Pêche ou aquaculture/Pêche ou aquaculture
+                        C031 Raffinage du pétrole/Raffinage du pétrole
+                        M018 Recherche et développement/Recherche et développement
+                        E012 Recycling/Recycling
+                        F015 Réalisation de travaux d'installation/Réalisation de travaux d'installation
+                        S013 Réparation d'autres marchandises/Réparation d'autres marchandises
+                        S012 Réparation d’appareils informatiques et de télécommunications/Réparation d’appareils informatiques et de télécommunications
+                        C073 Réparation et installation de machines et d’équipements/Réparation et installation de machines et d’équipements
+                        C046 Serrurerie, forge et atelier/Serrurerie, forge et atelier
+                        M014 Service concernant conseil PR/Service concernant conseil PR
+                        M015 Service concernant conseil aux entreprises/Service concernant conseil aux entreprises
+                        A014 Services dans le domaine de l’agriculture/Services dans le domaine de l’agriculture
+                        B015 Services dans le domaine de l’extraction de pétrole, de gaz naturel et minière/Services dans le domaine de l’extraction de pétrole, de gaz naturel et minière
+                        H018 Services de poste et de courrier/Services de poste et de courrier
+                        M019 Services de publicité/Services de publicité
+                        N026 Services de secrétariat et rédactionnels/Services de secrétariat et rédactionnels
+                        N020 Services de surveillance et de sécurité/Services de surveillance et de sécurité
+                        N021 Services de sécurité avec système d'alarme et de surveillance/Services de sécurité avec système d'alarme et de surveillance
+                        M024 Services de traduction/Services de traduction
+                        M020 Services d’étude de marché et d’opinion/Services d’étude de marché et d’opinion
+                        M012 Services fiduciaires/Services fiduciaires
+                        K019 Services pour les assurances et des caisses de retraite/Services pour les assurances et des caisses de retraite
+                        K018 Services pour les banques et instituts de crédit/Services pour les banques et instituts de crédit
+                        P019 Services pour l’enseignement scolaire et d’autres enseignements/Services pour l’enseignement scolaire et d’autres enseignements
+                        R015 Services sportifs/Services sportifs
+                        C029 Servizi film, musica e foto/Servizi film, musica e foto
+                        O011 Simulation de l'activité économique/Simulation de l'activité économique
+                        F016 Smatellamento e ripristino dello stato antecedente/Smatellamento e ripristino dello stato antecedente
+                        G026 Stands de vente et marchés/Stands de vente et marchés
+                        H016 Stockage et logistique/Stockage et logistique
+                        C039 Transformation de la pierre naturelle/Transformation de la pierre naturelle
+                        C011 Transformation de la viande et du poisson/Transformation de la viande et du poisson
+                        C025 Transformation du bois/Transformation du bois
+                        H012 Transport (autre)/Transport (autre)
+                        H015 Transport aérien de personnes et marchandises/Transport aérien de personnes et marchandises
+                        H014 Transport de personnes et marchandises/Transport de personnes et marchandises
+                        H010 Transport ferroviaire de personnes et marchandises/Transport ferroviaire de personnes et marchandises
+                        H013 Transport maritime et côtier de personnes et marchandises/Transport maritime et côtier de personnes et marchandises
+                        H011 Transport routier de personnes et marchandises/Transport routier de personnes et marchandises
+                        J015 Téléphone et télécommunication/Téléphone et télécommunication
+                        P016 Université/Université
+                        P017 Université de sciences appliquées/Université de sciences appliquées
+                        F010 Viabilisation de terrains/Viabilisation de terrains
+                        A011 Viticulture/Viticulture
+                        F019 Vitrerie/Vitrerie
+                        M026 Vétérinaire/Vétérinaire
+                        F022 Échafaudage/Échafaudage
+canton=
+                        AR Appenzell Rh.-Ext.
+                        AI Appenzell Rh.-Int.
+                        AG Argovie
+                        BE Berne
+                        BL Bâle-Campagne>Bâle-Campagne
+                        BS Bâle-Ville
+                        FR Fribourg
+                        GE Genève
+                        GL Glaris
+                        GR Grisons
+                        JU Jura
+                        LU Lucerne
+                        NE Neuchâtel
+                        NW Nidwald
+                        OW Obwald
+                        SG Saint-Gall
+                        SH Schaffhouse
+                        SZ Schwyz
+                        SO Soleure
+                        TI Tessin
+                        TG Thurgovie
+                        UR Uri
+                        VS Valais
+                        VD Vaud
+                        ZG Zoug
+                        ZH Zurich
+zipCodes=		query
+domicile=		query
+
+

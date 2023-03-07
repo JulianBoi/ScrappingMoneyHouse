@@ -1,0 +1,9 @@
+Installation requise
+
+la version de python est 3.11.1 et la version de pip 23.0
+
+Lancer l'application :
+
+py main.py
+
+Installer les modules afficher

@@ -1,0 +1,26 @@
+{
+    "entreprises": [
+        {
+            "id": 1,
+            "uri": "esras-onlineshop-inh-citak-eldenk-3008273721",
+            "nameDirector": "Esra Citak-Eldenk",
+            "coordDirectors": null,
+            "currentName": "\" Esra's - Onlineshop\", Inh. Citak-Eldenk",
+            "street": "Im oberen Gern 22",
+            "city": "Winterthur",
+            "zip": "8409",
+            "state": "ZH",
+            "countryCode": "CHE",
+            "sectors": "G027",
+            "purpose": "Ankauf von Waren aller Art, Verkauf von Waren aller Art, Onlinehandel, Onlineshop.",
+            "preferredLanguage": "de",
+            "capital": null,
+            "type": "organisation",
+            "employees": null,
+            "email": "",
+            "site": "",
+            "phone": "",
+            "archive": false
+        }
+    ]
+}

@@ -1,3 +1,4 @@
+demand = 		email phone site nameDirector 
 name= 			query
 status= 														
 			1 	actif

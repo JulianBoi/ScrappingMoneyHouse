@@ -135,8 +135,7 @@ for page in range(0,int(pageMAX)):
 
     # 2.2 - DATA DISTANTE
     response = requests.get(url, headers={
-        # 'Cookie': '',
-        # 'Cache-Control': ''
+        # TODO:     COOKIES
     }, params=params)
 
     # 2.3 - VERIFIER SI ON RECUPERE BIEN DES DONNEES
@@ -196,8 +195,7 @@ for page in range(0,int(pageMAX)):
                     # 2.3.3.2 - COORDONNER RECUPERER
                     urlCoord = "https://www.moneyhouse.ch/fr/company/" + str(data['uri'])
                     response = requests.get(urlCoord,headers={
-                        # 'Cookie': '',
-                        # 'Cache-Control': ''
+                    # TODO:     COOKIES
                     })
                     # 2.3.3.3 - Parcours de la page
 
@@ -234,12 +232,8 @@ for page in range(0,int(pageMAX)):
                             entrepriseDistante.nameDirector = parent
                         else:
                             entrepriseDistante.nameDirector = ""
-                    if properties['params']['demand'] == "":
-                        listEntrepriseDistant.add(entrepriseDistante)
-                        json_file.add_entreprise(listEntrepriseDistant.get_by_id(entrepriseDistante.id))
-                    else :
-                        listEntrepriseDistant.add(entrepriseDistante)
-                        json_file.add_entreprise(listEntrepriseDistant.get_by_id(entrepriseDistante.id))
+                    listEntrepriseDistant.add(entrepriseDistante)
+                    json_file.add_entreprise(listEntrepriseDistant.get_by_id(entrepriseDistante.id))
 
 
     else:
